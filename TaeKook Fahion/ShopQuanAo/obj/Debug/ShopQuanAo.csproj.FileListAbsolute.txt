@@ -1,0 +1,45 @@
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.pdb
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\AjaxControlToolkit.pdb
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csprojResolveAssemblyReference.cache
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.pdb
+F:\HK HE 2018\TMDT\Source Download\MrHoang\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.dll.config
+F:\HK HE 2018\TMDT\Source Download\MrHoang\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.dll
+F:\HK HE 2018\TMDT\Source Download\MrHoang\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.pdb
+F:\HK HE 2018\TMDT\Source Download\MrHoang\ShopQuanAo\ShopQuanAo\bin\AjaxControlToolkit.pdb
+F:\HK HE 2018\TMDT\Source Download\MrHoang\ShopQuanAo\ShopQuanAo\bin\ar\AjaxControlToolkit.resources.dll
+F:\HK HE 2018\TMDT\Source Download\MrHoang\ShopQuanAo\ShopQuanAo\bin\cs\AjaxControlToolkit.resources.dll
+F:\HK HE 2018\TMDT\Source Download\MrHoang\ShopQuanAo\ShopQuanAo\bin\de\AjaxControlToolkit.resources.dll
+F:\HK HE 2018\TMDT\Source Download\MrHoang\ShopQuanAo\ShopQuanAo\bin\es\AjaxControlToolkit.resources.dll
+F:\HK HE 2018\TMDT\Source Download\MrHoang\ShopQuanAo\ShopQuanAo\bin\fr\AjaxControlToolkit.resources.dll
+F:\HK HE 2018\TMDT\Source Download\MrHoang\ShopQuanAo\ShopQuanAo\bin\he\AjaxControlToolkit.resources.dll
+F:\HK HE 2018\TMDT\Source Download\MrHoang\ShopQuanAo\ShopQuanAo\bin\hi\AjaxControlToolkit.resources.dll
+F:\HK HE 2018\TMDT\Source Download\MrHoang\ShopQuanAo\ShopQuanAo\bin\it\AjaxControlToolkit.resources.dll
+F:\HK HE 2018\TMDT\Source Download\MrHoang\ShopQuanAo\ShopQuanAo\bin\ja\AjaxControlToolkit.resources.dll
+F:\HK HE 2018\TMDT\Source Download\MrHoang\ShopQuanAo\ShopQuanAo\bin\ko\AjaxControlToolkit.resources.dll
+F:\HK HE 2018\TMDT\Source Download\MrHoang\ShopQuanAo\ShopQuanAo\bin\nl\AjaxControlToolkit.resources.dll
+F:\HK HE 2018\TMDT\Source Download\MrHoang\ShopQuanAo\ShopQuanAo\bin\pt\AjaxControlToolkit.resources.dll
+F:\HK HE 2018\TMDT\Source Download\MrHoang\ShopQuanAo\ShopQuanAo\bin\ru\AjaxControlToolkit.resources.dll
+F:\HK HE 2018\TMDT\Source Download\MrHoang\ShopQuanAo\ShopQuanAo\bin\tr-TR\AjaxControlToolkit.resources.dll
+F:\HK HE 2018\TMDT\Source Download\MrHoang\ShopQuanAo\ShopQuanAo\bin\zh-CHS\AjaxControlToolkit.resources.dll
+F:\HK HE 2018\TMDT\Source Download\MrHoang\ShopQuanAo\ShopQuanAo\bin\zh-CHT\AjaxControlToolkit.resources.dll
+F:\HK HE 2018\TMDT\Source Download\MrHoang\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csprojResolveAssemblyReference.cache
+F:\HK HE 2018\TMDT\Source Download\MrHoang\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.dll
+F:\HK HE 2018\TMDT\Source Download\MrHoang\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.pdb
